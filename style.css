@@ -1,0 +1,84 @@
+body{
+    font-family: 'Cookie', cursive;
+    margin: 0;
+}
+.green-color{
+    color: green;
+}
+.white-color{
+    color: white;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    margin-bottom: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.link-button{
+    background-image: linear-gradient(45deg, lightgreen, green);
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 25px;
+    color: white;
+}
+.half-width{
+    padding-left: 5%;
+    width: 100%;
+}
+.half-width img{
+    width: 100%;
+}
+.my-recipie p{
+    color:green;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.second-section-banner{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.my-recipie{
+    text-align: center;
+}
+.recipie-image{
+    text-align: center;
+    width: 30%;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px gray;  
+}
+.recipie-image-size{
+    width: 90%;
+    padding: 5%;
+}
+.second-half-width{
+    padding-left: 5%;
+    width: 120%;
+}
+.second-half-width img{
+    width: 50%;
+    padding-left: 10%;
+}
+.third-section-banner{
+    background-color:whitesmoke;
+}
+.footer-align{
+    text-align: center;
+    background-color: black;
+}
+footer img{
+    width: 15%;
+    height: 20%;
+    border-radius: 180px;
+}
+footer p{
+    color: antiquewhite;
+    font-size: 20px;
+}
