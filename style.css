@@ -33,7 +33,7 @@ p{
     width: 100%;
 }
 .my-recipie p{
-    color:green;
+    color: gray;
 }
 .flexible-container{
     display: flex;
